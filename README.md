@@ -1,11 +1,7 @@
-# Football-Jersey-Sales-Dashboard
+
 # Football Jersey Sales Dashboard
 
 An interactive **Power BI dashboard** that analyzes sales for a football jersey shop. It helps answer key business questions: which teams sell the most, how customers prefer to pay, which sizes are in demand, and how sales change across quarters and years.
-
-## Dashboard Preview
-
-![Jersey Shop Analysis Dashboard](images/dashboard.png)
 
 ## Objectives
 
